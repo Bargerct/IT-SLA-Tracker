@@ -26,3 +26,23 @@ This project simulates a small business IT support system that tracks assets and
 ---
 
 ## 📁 Project structure
+
+IT-SLA-Tracker/
+├── assets/
+│ └── assets.csv
+├── tickets/
+│ ├── tickets.csv
+│ ├── tickets_updated.csv
+│ └── overdue_tickets.csv
+├── dashboards/
+│ └── IT_Support_Data.xlsx
+├── scripts/
+│ └── sla_report.py
+└── README.md
+
+## ⚡ How to run
+```bash
+python scripts/sla_report.py
+
+💡 Why I built this
+To practice building real IT support workflows — automating SLA tracking, managing data in Python, and visualizing it in Excel. It’s a practical project for anyone pursuing helpdesk, IT operations, or data-driven support roles.
