@@ -43,8 +43,3 @@ IT-SLA-Tracker/
 ## ⚡ How to run
 ```bash
 python scripts/sla_report.py
-
----
-
-##💡 Why I built this
-To practice building real IT support workflows — automating SLA tracking, managing data in Python, and visualizing it in Excel. It’s a practical project for anyone pursuing helpdesk, IT operations, or data-driven support roles.
